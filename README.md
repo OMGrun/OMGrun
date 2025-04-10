@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Saint!</h1>
-<h3 align="center">A front end developer who is currently learning about backend and stepping into the field of Data Science</h3>
+<h3 align="center">A developer who is currently learning about low level programming and stepping into the field of Neural Networks</h3>
 <img align="right" alt="programming gif" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **a 3D portfolio website using THREEJS**
 
-- 🌱 I’m currently learning **Java, React, THREEJS, Python, nodejs, PostgreSQL**
+- 🌱 I’m currently learning **C++,C, Assembly, THREEJS, Python**
 
 - 🤝 I’m looking for help with **Data science, machine learning, and AI.**
 
-- 💬 Ask me about **HTML, CSS, javascript, Tailwind, Bootstrap, Python**
+- 💬 Ask me about **HTML, CSS, javascript, Bootstrap, Python**
 
 - 📫 How to reach me **niphitphon.saint.sachdev@gmail.com**
 
-- ⚡ Fun fact **I like doing outdoor activities especially, free-diving, and I also like playing music!**
+- ⚡ Fun fact **I like doing outdoor activities especially, free-diving and swimming, additionally, I also like playing music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
