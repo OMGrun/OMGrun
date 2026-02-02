@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saint!</h1>
-<h3 align="center">A developer who is currently learning about low level programming and stepping into the field of Neural Networks</h3>
+<h3 align="center">A developer who is currently learning about low level programming and DevOps, I want to be a Linux Kernel Developer!</h3>
 <img align="right" alt="programming gif" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **a 3D portfolio website using THREEJS**
+- 🔭 I'm currently designing an OS from scratch
 
-- 🌱 I’m currently learning **C++,C, Assembly, THREEJS, Python**
+- 🌱 I’m currently learning **C++,C, Assembly, Python, Docker, and Kubernetes**
 
 - 🤝 I’m looking for help with **Data science, machine learning, and AI.**
 
