@@ -23,7 +23,7 @@
 - **Coffee cup (Koffa) startup** — turning coffee waste into biodegradable cups, check out our website <a href="https://koffa.koffa-startup.workers.dev"> Koffa </a>
 
 ### 🌱 Currently learning
-`C` · `C++` · `Assembly` · `Embedded Systems` · `OS Dev` · `Docker` · `Kubernetes` · `Full stack development`
+`C` · `Embedded Systems` · `Docker` · `PowerBI` · `SQL` · `MATLAB` · `Monte Carlo Simulation`
 
 ### 💬 Ask me about
 `Physics` · `The Ising Model`
